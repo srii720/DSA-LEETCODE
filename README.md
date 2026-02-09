@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/srii720/DSA-LEETCODE/tree/master/0860-lemonade-change) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srii720/DSA-LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/srii720/DSA-LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srii720/DSA-LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/srii720/DSA-LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srii720/DSA-LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
