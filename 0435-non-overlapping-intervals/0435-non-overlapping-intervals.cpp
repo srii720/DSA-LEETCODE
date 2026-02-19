@@ -16,7 +16,7 @@ public:
             if(arr[i][0] < prevend){  // Overlap
                 count++;
             } else {
-                prevend = arr[i][1];
+                prevend = arr[i][1];//now new prevend is arr[i][1];
             }
         }
         return count;
