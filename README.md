@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srii720/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/srii720/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/srii720/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
@@ -58,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/srii720/DSA-LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srii720/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
