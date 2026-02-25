@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/srii720/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/srii720/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/srii720/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srii720/DSA-LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srii720/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/srii720/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/srii720/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/srii720/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/srii720/DSA-LEETCODE/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/srii720/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
