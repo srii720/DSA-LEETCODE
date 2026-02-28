@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srii720/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/srii720/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srii720/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/srii720/DSA-LEETCODE/tree/master/0134-gas-station) |
@@ -93,5 +94,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/srii720/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/srii720/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
