@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srii720/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/srii720/DSA-LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/srii720/DSA-LEETCODE/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/srii720/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0213-house-robber-ii) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/srii720/DSA-LEETCODE/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/srii720/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
