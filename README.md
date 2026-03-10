@@ -24,6 +24,7 @@
 | [0740-delete-and-earn](https://github.com/srii720/DSA-LEETCODE/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/srii720/DSA-LEETCODE/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/srii720/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srii720/DSA-LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/srii720/DSA-LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
@@ -107,4 +108,5 @@
 | [0162-find-peak-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/srii720/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/srii720/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
