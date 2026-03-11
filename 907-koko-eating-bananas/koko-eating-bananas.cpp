@@ -17,7 +17,6 @@ public:
         for (int i = 1; i < n; i++) {
             if (piles[i] > end) end = piles[i];    // max element
         }
-
         // binary search on answer
         while (start < end) {
             int mid = start + (end - start) / 2;
