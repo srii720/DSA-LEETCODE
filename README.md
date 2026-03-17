@@ -21,6 +21,7 @@
 | [0410-split-array-largest-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/srii720/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srii720/DSA-LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0540-single-element-in-a-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/srii720/DSA-LEETCODE/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -112,6 +113,7 @@
 | [0162-find-peak-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/srii720/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/srii720/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srii720/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srii720/DSA-LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
