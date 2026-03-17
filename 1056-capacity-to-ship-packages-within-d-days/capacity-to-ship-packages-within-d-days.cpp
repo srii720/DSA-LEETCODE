@@ -1,36 +1,33 @@
 class Solution {
 public:
-    bool canShip(const vector<int>& weights, int days, int capacity) {
-        int daysUsed = 1;
-        int curr = 0;
-        
-        for (int w : weights) {
-            if (curr + w <= capacity) {
-                curr += w;
-            } else {
-                daysUsed++;
-                curr = w;
-                if (daysUsed > days) return false;
-            }
+   int howmanydays(vector<int>& weights, int capacity) {
+    int days = 1;
+    int current_load = 0;
+
+    for (int weight : weights) {
+        if (current_load + weight <= capacity) {
+            current_load += weight;
+        } else {
+            days++;
+            current_load = weight;
         }
-        return true;
     }
-    
-    int shipWithinDays(vector<int>& weights, int days) {
-        int low = 0, high = 0;
-        for (int w : weights) {
-            low = max(low, w);   // at least the heaviest
-            high += w;           // at most sum of all
-        }
-        
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-            if (canShip(weights, days, mid)) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
-        }
-        return low;
+    return days;
+}
+int shipWithinDays(vector<int>& weights, int days) {
+    int start = *max_element(weights.begin(), weights.end());
+    int end = accumulate(weights.begin(), weights.end(), 0);
+    while(start<end){
+        int mid=start+(end-start)/2;
+        int required_days=howmanydays(weights,mid);
+        if(required_days<=days){
+            end=mid;
+         }else{
+            start=mid+1;
+         }
+
+
+        }  
+        return start;
     }
 };
