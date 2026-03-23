@@ -30,6 +30,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srii720/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srii720/DSA-LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srii720/DSA-LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/srii720/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srii720/DSA-LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/srii720/DSA-LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
@@ -74,6 +75,7 @@
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/srii720/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srii720/DSA-LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1552-magnetic-force-between-two-balls](https://github.com/srii720/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
 | ------- |
@@ -119,4 +121,5 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srii720/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srii720/DSA-LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srii720/DSA-LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/srii720/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
