@@ -1,26 +1,26 @@
 class Solution {
 public:
+    int computeSum(vector<int>& nums, int d) {
+        int sum = 0;
+        for (int num : nums) {
+            sum += (num + d - 1) / d; // ceil division
+        }
+        return sum;
+    }
+
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int left = 1;
-        int right = *max_element(nums.begin(), nums.end());
-        int ans = -1;
+        int low = 1;
+        int high = *max_element(nums.begin(), nums.end());
+        int ans = high;
 
-        auto feasible = [&](int d) {
-            long long sum = 0;
-            for (int x : nums) {
-                sum += (x + d - 1) / d;  // ceil(x / d)
-                if (sum > threshold) return false; // early break
-            }
-            return sum <= threshold;
-        };
+        while (low <= high) {
+            int mid = (low + high) / 2;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (feasible(mid)) {
+            if (computeSum(nums, mid) <= threshold) {
                 ans = mid;
-                right = mid - 1;  // search smaller divisor
+                high = mid - 1; // try smaller
             } else {
-                left = mid + 1;   // need larger divisor
+                low = mid + 1;  // need bigger divisor
             }
         }
         return ans;
