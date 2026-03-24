@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/srii720/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/srii720/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srii720/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/srii720/DSA-LEETCODE/tree/master/0134-gas-station) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/srii720/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srii720/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/srii720/DSA-LEETCODE/tree/master/0198-house-robber) |
@@ -68,6 +70,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/srii720/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Sorting
 |  |
