@@ -24,6 +24,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srii720/DSA-LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/srii720/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0740-delete-and-earn](https://github.com/srii720/DSA-LEETCODE/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/srii720/DSA-LEETCODE/tree/master/0860-lemonade-change) |
@@ -46,6 +47,7 @@
 | [0410-split-array-largest-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/srii720/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srii720/DSA-LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/srii720/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/srii720/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
@@ -80,6 +82,7 @@
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/srii720/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srii720/DSA-LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/srii720/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/srii720/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
@@ -132,4 +135,8 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/srii720/DSA-LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/srii720/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/srii720/DSA-LEETCODE/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
