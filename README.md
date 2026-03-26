@@ -33,6 +33,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srii720/DSA-LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/srii720/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1920-build-array-from-permutation](https://github.com/srii720/DSA-LEETCODE/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/srii720/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srii720/DSA-LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/srii720/DSA-LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
@@ -130,4 +131,5 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/srii720/DSA-LEETCODE/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/srii720/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
