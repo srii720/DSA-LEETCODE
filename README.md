@@ -29,6 +29,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/srii720/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/srii720/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srii720/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srii720/DSA-LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/srii720/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -84,6 +85,7 @@
 | [0435-non-overlapping-intervals](https://github.com/srii720/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srii720/DSA-LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/srii720/DSA-LEETCODE/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/srii720/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srii720/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Memoization
 |  |
 | ------- |
