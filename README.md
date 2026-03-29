@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/srii720/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/srii720/DSA-LEETCODE/tree/master/0035-search-insert-position) |
@@ -68,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/srii720/DSA-LEETCODE/tree/master/0740-delete-and-earn) |
