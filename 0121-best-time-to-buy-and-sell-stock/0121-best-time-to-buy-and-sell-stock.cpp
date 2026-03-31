@@ -1,15 +1,17 @@
 class Solution {
 public:
     int maxProfit(std::vector<int>& prices) {
-        int buy = prices[0];
-        int profit = 0;
-        for (int i = 1; i < prices.size(); i++) {
-            if (prices[i] < buy) {
-                buy = prices[i];
-            } else if (prices[i] - buy > profit) {
-                profit = prices[i] - buy;
-            }
-        }
-        return profit;
+        int min_price=prices[0];
+        int max_profit=0;
+        for(int i=0;i<prices.size();i++){
+            int profit_today=prices[i]-min_price;
+            max_profit=max(max_profit,profit_today);
+            min_price=min(min_price,prices[i]);
+
+           
+
+            
+
+        }return max_profit;
     }
 };
