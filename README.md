@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/srii720/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srii720/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/srii720/DSA-LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/srii720/DSA-LEETCODE/tree/master/0135-candy) |
@@ -87,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/srii720/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srii720/DSA-LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -122,6 +124,7 @@
 | [0011-container-with-most-water](https://github.com/srii720/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/srii720/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Memoization
