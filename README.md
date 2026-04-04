@@ -22,6 +22,7 @@
 | [0162-find-peak-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/srii720/DSA-LEETCODE/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/srii720/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/srii720/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -114,11 +115,13 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/srii720/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srii720/DSA-LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -142,6 +145,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srii720/DSA-LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/srii720/DSA-LEETCODE/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/srii720/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/srii720/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
