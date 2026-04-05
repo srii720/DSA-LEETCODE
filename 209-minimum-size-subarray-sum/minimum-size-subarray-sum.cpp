@@ -11,7 +11,11 @@ public:
             }
 
 
-        }return (length==INT_MAX)?0:length;
+        }if(length==INT_MAX){
+            return 0;}
+            else{
+                return length;
+                }
         
 
         
