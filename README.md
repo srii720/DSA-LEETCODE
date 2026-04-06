@@ -34,6 +34,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/srii720/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/srii720/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/srii720/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/srii720/DSA-LEETCODE/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/srii720/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/srii720/DSA-LEETCODE/tree/master/0860-lemonade-change) |
@@ -119,6 +120,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/srii720/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srii720/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/srii720/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/srii720/DSA-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 ## Sliding Window
 |  |
