@@ -1,25 +1,35 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
+        // Use string as a stack of chars
+        string st;
+
         for (char c : s) {
             // If opening bracket, push to stack
             if (c == '(' || c == '{' || c == '[') {
-                st.push(c);
+                st.push_back(c);
             } else {
-                // If closing bracket, stack must not be empty
-                if (st.empty()) return false;
-                char top = st.top();
-                st.pop();
-                // Check matching pair
-                if ((c == ')' && top != '(') ||
-                    (c == '}' && top != '{') ||
-                    (c == ']' && top != '[')) {
+                // It is a closing bracket
+                if (st.empty()) {
+                    // No opening bracket to match
+                    return false;
+                }
+
+                char top = st.back();
+                // Check if top and current form a valid pair
+                if ((top == '(' && c == ')') ||
+                    (top == '[' && c == ']') ||
+                    (top == '{' && c == '}')) {
+                    // Valid pair: pop the opening
+                    st.pop_back();
+                } else {
+                    // Mismatched pair
                     return false;
                 }
             }
         }
-        // All opened must be closed
+
+        // Valid only if no unmatched opening brackets remain
         return st.empty();
     }
 };
